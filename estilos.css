@@ -30,20 +30,183 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     width: 300px;
     background-image: url("circuito.jfif");
     background-repeat: no-repeat;
-    float: left;
+    
 
 }
 
 .imgm1{
-    height: 211px;
-    width: 540px;
+    height: 200px;
+    width: 300px;
     background-image: url(suma\ polinomios.png);
     background-repeat: no-repeat;
-    float: left;
+    
+
 
 }
 
 
 
+.imgm4{
+    height: 200px;
+    width: 600px;
+    background-image: url(suma\ 5.jpg);
+    background-repeat: no-repeat;
+    
 
+
+}
+
+.imgmr2{
+    height: 200px;
+    width: 600px;
+    background-image: url(resta\ 3.png);
+    background-repeat: no-repeat;
+    
+
+
+}
+
+
+
+.imgm2{
+    height: 200px;
+    width: 300px;
+    background-image: url(resta.png);
+    background-repeat: no-repeat;
+    
+
+}
+
+
+.imgm3{
+    height: 200px;
+    width: 300px;
+    background-image: url(multiplicacion.png);
+    background-repeat: no-repeat;
+    
+
+}
+
+.imgm7{
+    height: 200px;
+    width: 300px;
+    background-image: url(multiplicacion\ 2.png);
+    background-repeat: no-repeat;
+    
+
+}
+
+.imgmd1{
+    height: 200px;
+    width: 300px;
+    background-image: url(division\ 2.png);
+    background-repeat: no-repeat;
+    
+
+}
+
+.imgmd2{
+    height: 300px;
+    width: 700px;
+    background-image: url(division\ 1.jpg);
+    background-repeat: no-repeat;
+    
+
+}
+
+.imgmp1{
+    height: 300px;
+    width: 700px;
+    background-image: url(productos\ notables.png);
+    background-repeat: no-repeat;
+    
+
+}
+
+.imgme1{
+    height: 300px;
+    width: 700px;
+    background-image: url(ejemplos.png);
+    background-repeat: no-repeat;
+    
+
+}
+
+.imgme2{
+    height: 300px;
+    width: 700px;
+    background-image: url(ejemplo\ 2.jpeg);
+    background-repeat: no-repeat;
+    
+
+}
+
+
+.imgme3{
+    height: 300px;
+    width: 400px;
+    background-image: url(ejemplo\ 3.jfif);
+    background-repeat: no-repeat;
+    
+
+}
+
+.imgb1{
+    height: 300px;
+    width: 400px;
+    background-image: url(aparato\ reprodctor\ 1.jpg);
+    background-repeat: no-repeat;
+    
+
+}
+
+.imgb2{
+    height: 350px;
+    width: 400px;
+    background-image: url(hormona\ 1.jpg);
+    
+
+}
+
+.imgb3{
+    height: 300px;
+    width: 600px;
+    background-image: url(hormona\ 2.jpg);
+    
+
+}
+
+.imgb4{
+    height: 200px;
+    width: 300px;
+    background-image: url(vagi.jfif);
+    
+
+}
+
+.imgb5{
+    height: 500px;
+    width: 560px;
+    background-image: url(ciclo.jpg);
+    
+
+}
+
+.imgb6{
+    height: 135px;
+    width: 377px;
+    background-image: url(ciclo\ menstrual\ 2.jfif);
+    
+    
+
+}
+
+.imgq1{
+    height: 250px;
+    width: 200px;
+    background-image: url(confi.png);
+    
+
+}
+    
 
